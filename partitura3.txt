@@ -1,0 +1,1 @@
+['Lam', ['la', 'si', 'mi'], ['c', 'c', 'n']] ['FaM', ['la'], ['b']] ['DoM', ['mi', 'sol'], ['c', 'np']] ['SolM', ['si', 'si', 'sol'], ['n', 'c', 'c']] ['Lam', ['la', 'fa'], ['n', 'n']] ['FaM', ['fa', 're'], ['c', 'np']] ['DoM', ['do'], ['b']] ['SolM', ['si'], ['b']] ['Do', ['do'], ['b']]
